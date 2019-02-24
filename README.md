@@ -1,2 +1,2 @@
-# computer_vision
-Computer Vision
+# Computer Vision
+Python notebooks of computer vision
